@@ -1,0 +1,10 @@
+commit refs/heads/master
+mark :1000000000
+committer cvsadmin <cvsadmin> 1645785421 +0000
+data 10
+CVS START
+
+M 100644 :1 myfile.txt
+
+reset refs/tags/start
+from :1000000000
